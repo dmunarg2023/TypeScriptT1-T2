@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",                                 
+    "module": "es6",                                  
+    "strict": true,                                   
+    "alwaysStrict": true,                             
+    "esModuleInterop": true,                          
+    "forceConsistentCasingInFileNames": true,         
+    "skipLibCheck": true,                             
+    "outDir": "./dist"                                
+  },
+  "include": [
+    "./scripts/**/*.ts"                 
+  ]
+}
